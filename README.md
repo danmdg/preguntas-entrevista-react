@@ -536,7 +536,6 @@ function Component() {
 
 #### ¿Qué son los Fragments en React?
 
-
 Los Fragments son una forma de agrupar elementos sin añadir un elemento extra al DOM, ya que React no permite devolver varios elementos en un componente, solo un elemento raíz.
 
 Para crear un Fragment en React usamos el componente `Fragment`:
